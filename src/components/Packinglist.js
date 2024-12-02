@@ -1,5 +1,4 @@
-import Item from './App'
-
+import Item from './Item'
 // Packlinglist Component
 export default function PackingList({ items, handleUpdateItem, handleDeleteItem, handleSort, handleClear }) {
     return (
